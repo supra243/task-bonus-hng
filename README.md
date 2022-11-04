@@ -1,6 +1,6 @@
 # task-bonus-hng
 
 # requirements
--> python3
--> json
--> csv
+-> python3 \n
+-> json \n
+-> csv \n
